@@ -1,0 +1,58 @@
+.paddingR{
+    padding-right: 30px;
+}
+.center{
+    float: center;
+}
+
+
+.imageMe {
+  border-radius: 50%;
+  width: 10%;
+  height: auto;
+  margin:40px; 
+  float: left
+  
+}
+.imageFsLogo{
+    width: 16%;
+    height: auto; 
+    margin-top: 60px;
+    float: right
+}
+.card {
+    font-weight: 400;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    position: relative;
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    width: 50%;
+    margin-top: auto
+  }
+.list{
+    float: center;
+}
+
+
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end
+}
+.navbarEl{
+    display:flex;
+    flex-direction: row;
+}
+.navbarH{
+    float: left;
+}
+.newflex{
+    display: flex;
+    justify-content: space-around;
+}
